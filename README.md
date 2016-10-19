@@ -1,5 +1,8 @@
 XBuild.XmlTransform
 ===========
+
+[![Build status](https://ci.appveyor.com/api/projects/status/7076q1anccr442cb?svg=true)](https://ci.appveyor.com/project/darrenfang/xbuild-xmltransform)
+
 Provides <TransformXml/> tasks for xbuild as described here: https://mzabani.wordpress.com/2013/09/24/mono-asp-net-project-deployment-with-web-config-xdt-transformations/.
 
 ### Usage
